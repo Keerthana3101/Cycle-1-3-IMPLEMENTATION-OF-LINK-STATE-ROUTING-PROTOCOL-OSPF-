@@ -35,10 +35,10 @@ To connect computers in multiple networks using Open Shortest Path First (OSPF) 
 ---
 
 ## 🗺️ NETWORK DIAGRAM
-*(Insert diagram or screenshot from Packet Tracer)*
 
 ---
-<img width="919" height="378" alt="image" src="https://github.com/user-attachments/assets/ca993ef1-ac39-413a-a79b-bd26f9cc0615" />
+<img width="687" height="570" alt="image" src="https://github.com/user-attachments/assets/4cd576af-8dc0-4697-ab0e-d1dcabd409de" />
+
 
 
 ## 🧭 PROCEDURE
@@ -110,9 +110,9 @@ Router1# show ip route
 ```
 ## 📤 OUTPUT
 ---
-<img width="841" height="1013" alt="image" src="https://github.com/user-attachments/assets/54e37780-24ab-404b-bcdf-566a194afcb9" />
-
-
+<img width="754" height="452" alt="image" src="https://github.com/user-attachments/assets/79113b75-94d9-4a02-bf78-74383c440bc3" />
+<img width="753" height="404" alt="Screenshot 2026-05-30 211459" src="https://github.com/user-attachments/assets/ff613ce8-f012-44cf-a1ba-60fbfa9fa4cf" />
+<img width="590" height="444" alt="Screenshot 2026-05-30 211519" src="https://github.com/user-attachments/assets/38b8cacd-35af-40bd-884f-71ea74ba47e0" />
 
 ## 📝 RESULT
 Thus, the computers in multiple networks using Open Shortest Path First (OSPF) Routing Protocol are successfully connected and the connectivity between them is verified.
